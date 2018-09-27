@@ -1,1 +1,1 @@
-# gittest
+# Proje hakkında bilgi 
