@@ -1,1 +1,1 @@
-# Proje hakkında bilgi 
+# Oku
